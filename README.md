@@ -29,15 +29,6 @@ cd Java_DataStructures
 - **Practice**: Test out each data structure and try modifying or extending them to reinforce your understanding.
 - **Contribute**: Found a better way to implement something? Feel free to fork the repository, make changes, and submit a pull request.
 
-## 💡 Key Concepts Covered
-
-Each data structure includes the following key topics:
-- Initialization and creation
-- Key operations (insertion, deletion, searching)
-- Common use cases
-- Complexity analysis (time and space)
-- Sample edge cases
-
 ## 🤝 Contributing
 
 If you would like to contribute to this repository, you're welcome to open an issue or submit a pull request. Contributions such as additional data structures, optimizations, or improved documentation are encouraged.
